@@ -7,3 +7,8 @@ As language features of a visual language have to be supported by the tool (vvvv
 Please note that this repository is about language ideas, not the implementation and its potential bugs. However, we do allow reports about conceptual problems, where language features are hard to combine. 
 
 We understand that language design isn't just about coming up with as many different ways of expression as possible, but about simple ways of expression and elegant ideas, which can be combined well.
+
+Before you open a new issue:
+Please consider to split up your idea into
+* Motivation. Start the issue title with `[Quest]`
+* Your proposed solution. Start the issue title with `[Proposal]` and refer to your quest.
