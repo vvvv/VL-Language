@@ -14,9 +14,9 @@ Please consider to split up your idea into
 * Your proposed solution. Start the issue title with `[Proposal]` and refer to your quest.
 
 Our workflow will then look like this:
-* prioritize certain quests
-* figure out which proposal to accept `[Decision]` either because 
+* Prioritize certain quests
+* Figure out which proposal to accept `[Decision]` either because 
    * it fits best (the right hammer that solves one particular problem)  
    * since it's such a general-purpose idea that solves different quests 
-* prioritize the decisions   
-* actually implement those 
+* Prioritize the decisions   
+* Actually implement those 
