@@ -12,3 +12,12 @@ Before you open a new issue:
 Please consider to split up your idea into
 * Motivation. Start the issue title with `[Quest]`
 * Your proposed solution. Start the issue title with `[Proposal]` and refer to your quest.
+
+Note that it will take time to 
+* prioritize certain quests "as more important than all others"
+* figure out 
+   * which proposal fits best (the right hammer that solves one particular problem) or 
+   * which proposal is such a general-purpose idea that solves different quests 
+* actually implement some of those 
+
+Thanks for your understanding!
