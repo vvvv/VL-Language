@@ -20,3 +20,6 @@ Our workflow will then look like this:
    * since it's such a general-purpose idea that solves different quests 
 * Prioritize the decisions   
 * Actually implement those 
+
+Let's chat here:
+https://riot.im/app/#/room/#VLLang:matrix.org
